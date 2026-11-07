@@ -1,0 +1,11 @@
+Table of Work: Password Strength Checker & Generator
+
+Date       Task Description                                           Hours
+---------------------------------------------------------------------------
+Oct 01     Project scoping, requirements analysis, and initial design  2.5
+Oct 02     Implemented length and character set validation functions  3.0
+Oct 03     Implemented password generator and main interactive menu   3.5
+Oct 04     Wrote unit test functions and debugging edge cases         2.0
+Oct 05     Final code cleanup, verification, and documentation        1.5
+---------------------------------------------------------------------------
+Total Hours:                                                         12.5
