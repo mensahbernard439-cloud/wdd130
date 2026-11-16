@@ -54,6 +54,7 @@ nav a:hover {
   color: var(--accent-color);
 }
 
+/* Main Content */
 main {
   max-width: 840px;
   margin: 0 auto;
