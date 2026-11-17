@@ -1,8 +1,12 @@
 /* 1. CSS Variables */
 :root {
-  --primary-color: #055a05;
+  --primary-color: #1d3557;
+  /* Changed from dark green to deep navy */
+  --secondary-color: #457b9d;
+  /* Added so your nav hover works */
   --accent1-color: #264653;
-  --accent2-color: #e9c46a;
+  --accent2-color: #ffffff;
+  /* Changed header text color to white for better contrast */
   --heading-font: "Times New Roman", "Georgia", serif;
   --body-font: Arial, Helvetica, sans-serif;
 }
@@ -92,6 +96,11 @@ article {
   float: right;
   width: 125px;
   margin-left: 15px;
+}
+
+header nav a {
+  color: var(--accent2-color);
+  /* Ensures links match the header text color */
 }
 
 header nav a:hover {
