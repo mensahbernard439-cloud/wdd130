@@ -58,6 +58,10 @@ nav a {
   font-weight: bold;
 }
 
+nav a:hover {
+  color: var(--secondary-color);
+}
+
 /* Headings */
 h1,
 h2 {
@@ -154,6 +158,7 @@ footer {
   border-top: 1px solid var(--accent1-color);
   padding: 1rem;
   margin-top: 2rem;
+  background-color: var(--accent2-color);
 }
 
 footer p {
